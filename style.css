@@ -41,9 +41,9 @@ h2 {
   font-size: 70px;
   margin-bottom: 50px;
   color: rgb(23, 83, 50);
-  float: inline-start;
+  float: right;
   margin-right: 10%;
-  text-align: center;
+  text-align: left;
 }
 
 #question-btn-1 {
@@ -56,7 +56,7 @@ h2 {
   border: 0mm;
   padding: 35px;
   position: relative;
-  left: 120px;
+  left: 100px;
   top: 2px;
 
   cursor: pointer;
@@ -72,7 +72,7 @@ h2 {
   border: 0mm;
   padding: 35px;
   position: relative;
-  right: -120px;
+  right: -100px;
   top: 2px;
 
   cursor: pointer;
